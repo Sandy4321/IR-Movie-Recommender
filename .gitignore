@@ -1,0 +1,12 @@
+## folder
+__pycache__
+verify/
+data/
+_reco/
+
+
+## files
+*.txt
+*.pyc
+*.pdf
+
