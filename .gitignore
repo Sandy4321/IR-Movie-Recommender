@@ -1,8 +1,8 @@
 ## folder
 __pycache__
-verify/
-data/
-_reco/
+/src/verify/
+/datasets/
+/src/pymf
 
 
 ## files
